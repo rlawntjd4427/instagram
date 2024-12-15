@@ -1,0 +1,8 @@
+git conpig --global user.name rlawntjd4427 
+git config --global user.password skying5764@
+
+git init
+git add .
+git commit -m "first commit"
+git remote add 깃허브 주소
+git push origin master
